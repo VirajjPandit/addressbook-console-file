@@ -1,8 +1,6 @@
 package User_Management;
 
-
-
-	import java.util.Scanner;
+        import java.util.Scanner;
 	import java.util.ArrayList;
 	import java.util.Iterator;
 	import java.io.IOException;
@@ -13,11 +11,8 @@ package User_Management;
 	import java.io.FileWriter;
 	import java.io.BufferedWriter;
 
-	public class UserManagement {
+	              public class UserManagement {
 				
-		
-		
-
 			static ArrayList<User> al = new ArrayList();
 			static
 			{
