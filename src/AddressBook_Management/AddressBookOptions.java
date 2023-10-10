@@ -6,6 +6,6 @@ public class AddressBookOptions {
 	public static final int DELETE_Contact=3;
 	public static final int SEARCH_Contact=4;
 	public static final int QUIT=5;
-
-
 }
+
+
